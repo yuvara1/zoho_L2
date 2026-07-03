@@ -23,6 +23,18 @@ public class PROGRAM_FromMiddle {
         }
     }
 
+    /**
+     * <pre>
+     *       G
+     *      GR
+     *     GRA
+     *    GRAM
+     *   GRAMP
+     *  GRAMPR
+     * GRAMPRO
+     * </pre>
+     *
+     */
     static void main(String[] args) {
         print("PROGRAM");
     }

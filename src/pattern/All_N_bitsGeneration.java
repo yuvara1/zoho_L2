@@ -25,8 +25,17 @@ public class All_N_bitsGeneration {
         generate(str + "1", n);
     }
 
+    /**
+     * <pre>
+     * 00
+     * 01
+     * 10
+     * 11
+     * </pre>
+     *
+     */
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         // Generates all 2-bit binary strings: 00, 01, 10, 11
         generate("", 2);
     }

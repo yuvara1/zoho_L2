@@ -17,6 +17,17 @@ public class DiagonalSweepTriangle {
         }
     }
 
+    /**
+     * <pre>
+     * 1
+     * 2 4
+     * 3 5 7
+     * 6 8 10 12
+     * 9 11 13 15 17
+     * 14 16 18 20 22 24
+     * </pre>
+     *
+     */
     static void main(String[] args) {
         printDiagonalSweep(6);
     }

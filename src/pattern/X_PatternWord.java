@@ -16,6 +16,18 @@ public class X_PatternWord {
         System.out.println();
     }
 
+    /**
+     * <pre>
+     * P      P
+     *  R    R
+     *   O  O
+     *    G
+     *   R  R
+     *  A    A
+     * M      M
+     * </pre>
+     *
+     */
     static void main(String[] args) {
         print("PROGRAM");
         print("JAVAC");
