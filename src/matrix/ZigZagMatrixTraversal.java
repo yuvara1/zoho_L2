@@ -29,11 +29,6 @@ public class ZigZagMatrixTraversal {
             }
         }
     }
-
-    /**
-     * <p>1 2 4 7 5 3 6 8 9 </p>
-     *
-     */
     public static void main(String[] args) {
         int[][] matrix = {
                 {1, 2, 3},
