@@ -35,7 +35,7 @@ public class All_N_bitsGeneration {
      *
      */
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         // Generates all 2-bit binary strings: 00, 01, 10, 11
         generate("", 2);
     }

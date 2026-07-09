@@ -23,7 +23,7 @@ public class DescRightTriangle {
      * </pre>
      *
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         printRightTriangle(5);
     }
 }

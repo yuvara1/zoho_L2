@@ -20,7 +20,7 @@ public class RowWiseCyclicShiftMatrix {
      * <p>4 5 1 2 3<p/>
      * <p>5 1 2 3 4<p/>
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int n = args.length > 0 ? Integer.parseInt(args[0]) : 5;
         printRowWiseCyclicShiftMatrix(n);
     }

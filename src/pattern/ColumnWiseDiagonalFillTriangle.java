@@ -22,7 +22,7 @@ public class ColumnWiseDiagonalFillTriangle {
      * 6
      * </pre>
      * */
-    static void main() {
+    public static void main(String[] args) {
         printColumnWiseDiagonalFillTriangle(6);
     }
 }

@@ -28,7 +28,7 @@ public class DiagonalSweepTriangle {
      * </pre>
      *
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         printDiagonalSweep(6);
     }
 }

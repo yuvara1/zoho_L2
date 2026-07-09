@@ -35,7 +35,7 @@ public class PROGRAM_FromMiddle {
      * </pre>
      *
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         print("PROGRAM");
     }
 }

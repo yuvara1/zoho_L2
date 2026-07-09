@@ -55,7 +55,7 @@ public class SubStringSearchIn2DGrid {
      * </pre>
      *
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         char[][] word = {
                 {'w', 'e', 'l', 'c', 'o'},
                 {'m', 'e', 't', 'o', 'z'},

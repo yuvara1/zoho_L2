@@ -8,7 +8,8 @@ public class ZeroOutAdjacentCell {
             }
             System.out.println();
         }
-        System.out.println("--------------------".repeat(2));
+        // avoid using String.repeat to keep compatibility with older Java versions
+        System.out.println("----------------------------------------");
     }
 
     public static void printZeroOutAdjacentCells(int[][] matrix) {

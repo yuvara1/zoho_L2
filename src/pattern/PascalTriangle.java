@@ -53,7 +53,7 @@ public class PascalTriangle {
      *   1 4 6 4 1
      * </pre>
      * */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         printPascal(5);
         System.out.println(" ---------------------------- ");
         printPascalLeetcode(5);

@@ -33,7 +33,7 @@ public class HallowCentre {
      * </pre>
      *
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         printHallowCentre(3, 3);
         printHallowCentre(6, 7);
 
