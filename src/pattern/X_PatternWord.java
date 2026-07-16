@@ -28,7 +28,7 @@ public class X_PatternWord {
      * </pre>
      *
      */
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         print("PROGRAM");
         print("JAVAC");
     }

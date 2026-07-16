@@ -23,7 +23,8 @@ public class SubMatrixByCornerIndices {
 
     /**
      * 54
-     * **/
+     *
+     **/
     public static void main(String[] args) {
 
         int[][] matrix = {
