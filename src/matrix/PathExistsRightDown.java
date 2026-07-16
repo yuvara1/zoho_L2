@@ -24,7 +24,7 @@ public class PathExistsRightDown {
     /**
      * <p>Yes</p>
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int[][] grid = {
                 {1, 0, 1, 0, 0},
                 {1, 1, 1, 1, 1},
