@@ -54,6 +54,16 @@ public class RotateEachRing {
         }
     }
 
+    /**
+     * <pre>
+     * 2 3 4 8
+     * 1 7 11 12
+     * 5 6 10 16
+     * 9 13 14 15
+     * </pre>
+     *
+     */
+
     public static void main(String[] args) {
 
         int[][] mat = {
