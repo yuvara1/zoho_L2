@@ -32,7 +32,6 @@ public class SubMatrixSearch {
                     return true;
             }
         }
-
         return false;
     }
 
@@ -50,8 +49,8 @@ public class SubMatrixSearch {
         };
 
         if (isSubMatrix(big, small))
-            System.out.println("TRUE");
+            System.out.println("True");
         else
-            System.out.println("FALSE");
+            System.out.println("False");
     }
 }
